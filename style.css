@@ -1,25 +1,4 @@
-.cari{
-	float: right;
-}
-
-.table-info{
-	font-family: arial;
-	font-size: 16px;
-}
-
-.table-light{
-	font-family: arial;
-	font-size: 14px;
-}
-
-.judul{
+.isi{
 	font-family: Arial;
-}
-
-.subjudul{
-	font-family: Roboto Thin;
-}
-
-thead, tbody{
-	font-family: Times New Roman;
+	font-size: 16px;
 }
