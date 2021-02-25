@@ -1,8 +1,7 @@
-latar{
-	background-color: #ff8000;
+.nav-link{
+	font-family: Arial;
 }
 
-.isi{
-	font-family: Arial;
-	font-size: 16px;
+.nav-brand{
+	font-weight: bold;
 }
